@@ -1,0 +1,6 @@
+Nguyen Van A;20;10
+Nguyen Van B;21;9
+Nguyen Van B1;21;9
+Phan Van A;22;6
+Phan Van B;23;7
+Phan Van Ds;23;10
